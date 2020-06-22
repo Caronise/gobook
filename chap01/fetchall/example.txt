@@ -1,0 +1,3 @@
+0.26s    1256 https://example.com
+0.31s    7522 https://godoc.org
+0.98s    4154 http://gopl.io
